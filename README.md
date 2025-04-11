@@ -1,4 +1,4 @@
-# GenAI Cooking Agent Assistant
+# GenAI Cooking Agent Assistant - DishVortex
 Cooking Assistance Applications Agent on gen AI Using LLM Models
 
 #### Purpose of the Agent
